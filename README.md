@@ -1,4 +1,4 @@
-# Física Electrónica con Aplicaciones en Python
+# Fundamentos de la Física Electrónica y Moderna con Python 
 
 Bienvenido al repositorio del libro **Física Electrónica con Aplicaciones en Python**. Este libro está diseñado para proporcionar una comprensión integral de los conceptos fundamentales de la física electrónica y moderna, integrando aplicaciones prácticas en Python.
 
